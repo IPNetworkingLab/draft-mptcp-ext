@@ -2,7 +2,7 @@
 title: "Multipath TCP with external keys"
 category: std
 
-docname: draft-baerts-mptcp-ext-latest
+docname: draft-baerts-tcpm-mptcpext-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -18,7 +18,7 @@ venue:
   mail: "tcpm@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/tcpm/"
   github: "IPNetworkingLab/draft-mptcp-ext"
-  latest: "https://ipnetworkinglab.github.io/draft-mptcp-ext/draft-baerts-mptcp-ext.html"
+  latest: "https://ipnetworkinglab.github.io/draft-mptcp-ext/draft-baerts-tcpm-mptcpext.html"
 
 author:
  -
