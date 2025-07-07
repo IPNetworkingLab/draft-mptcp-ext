@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "Multipath TCP with external keys".
 
-* [Editor's Copy](https://IPNetworkingLab.github.io/draft-mptcp-ext/#go.draft-baerts-mptcp-ext.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-baerts-mptcp-ext)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-baerts-mptcp-ext)
-* [Compare Editor's Copy to Individual Draft](https://IPNetworkingLab.github.io/draft-mptcp-ext/#go.draft-baerts-mptcp-ext.diff)
+* [Editor's Copy](https://IPNetworkingLab.github.io/draft-mptcp-ext/#go.draft-baerts-tcpm-mptcpext.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-baerts-tcpm-mptcpext)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-baerts-tcpm-mptcpext)
+* [Compare Editor's Copy to Individual Draft](https://IPNetworkingLab.github.io/draft-mptcp-ext/#go.draft-baerts-tcpm-mptcpext.diff)
 
 
 ## Contributing

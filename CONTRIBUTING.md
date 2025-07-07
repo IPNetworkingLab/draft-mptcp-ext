@@ -19,10 +19,10 @@ subject to a Simplified BSD License) in Contributions.
 
 ## Working Group Information
 
-Discussion of this work occurs on the [Multipath TCP
-Working Group mailing list](mailto:multipathtcp@ietf.org)
-([archive](https://mailarchive.ietf.org/arch/browse/multipathtcp/),
-[subscribe](https://www.ietf.org/mailman/listinfo/multipathtcp)).
+Discussion of this work occurs on the [TCP Maintenance and Minor Extensions
+Working Group mailing list](mailto:tcpm@ietf.org)
+([archive](https://mailarchive.ietf.org/arch/browse/tcpm/),
+[subscribe](https://www.ietf.org/mailman/listinfo/tcpm)).
 In addition to contributions in GitHub, you are encouraged to participate in
 discussions there.
 
@@ -30,4 +30,4 @@ discussions there.
 technical issues needs to occur on the mailing list.
 
 You might also like to familiarize yourself with other
-[Working Group documents](https://datatracker.ietf.org/wg/mptcp/documents/).
+[Working Group documents](https://datatracker.ietf.org/wg/tcpm/documents/).
