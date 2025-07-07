@@ -9,16 +9,16 @@ date:
 consensus: true
 v: 3
 area: "Transport"
-workgroup: "Multipath TCP"
+workgroup: "TCPM"
 keyword:
  - mptcp
 venue:
-  group: "Multipath TCP"
-  type: "Working Group"
-  mail: "multipathtcp@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/multipathtcp/"
+  group: "TCPM"
+  type: "Individual"
+  mail: "tcpm@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/tcpm/"
   github: "IPNetworkingLab/draft-mptcp-ext"
-  latest: "https://IPNetworkingLab.github.io/draft-mptcp-ext/draft-baerts-mptcp-ext.html"
+  latest: "https://ipnetworkinglab.github.io/draft-mptcp-ext/draft-baerts-mptcp-ext.html"
 
 author:
  -
