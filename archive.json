@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-07-15T00:59:29.420780+00:00",
+  "timestamp": "2025-07-17T00:58:59.826606+00:00",
   "repo": "IPNetworkingLab/draft-mptcp-ext",
   "labels": [
     {
@@ -49,6 +49,39 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOPIMD_c7Au0sw",
+      "title": "Differences between previous drafts from Christoph",
+      "url": "https://github.com/IPNetworkingLab/draft-mptcp-ext/issues/1",
+      "state": "OPEN",
+      "author": "matttbe",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "From Yoshifumi Nishida on the [IETF Multipath ML](https://mailarchive.ietf.org/arch/msg/multipathtcp/0ONo-LLAvxuJ10dYYS9YeyfNVL8/)\n\n> As far as I remember we had draft-paasch-mptcp-application-authentication and draft-paasch-mptcp-ssl which address similar points. I think it would be great if the draft can address what's the difference between them and this draft and what's the advantages of this approach, etc.",
+      "createdAt": "2025-07-15T19:45:35Z",
+      "updatedAt": "2025-07-15T19:45:35Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "I_kwDOPIMD_c7Avd57",
+      "title": "Explain why it is enough to store max two keys",
+      "url": "https://github.com/IPNetworkingLab/draft-mptcp-ext/issues/2",
+      "state": "OPEN",
+      "author": "matttbe",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "From Yoshifumi Nishida on the [IETF Multipath ML](https://mailarchive.ietf.org/arch/msg/multipathtcp/0ONo-LLAvxuJ10dYYS9YeyfNVL8/)\n\n> 3: Why does it store just two keys? Or, does it mean it generates a new key when the next key is chosen and throws away the current key?",
+      "createdAt": "2025-07-15T20:52:26Z",
+      "updatedAt": "2025-07-15T20:52:26Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
